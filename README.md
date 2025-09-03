@@ -12,11 +12,12 @@ MongoDB's flexible schema and powerful querying capabilities make CRUD operation
 
 ---
 
-## Diagram / Illustration
-Paste your image link below:
+## Screenshots
 
 ![MongoDB CRUD](https://github.com/ketankirty/CRUD-operation-in-Backend-Express.js-and-Mongodb-/blob/f23afbbd56697e13252ce7189c5b39c775502d25/Screenshot%202025-09-03%20144820.png)
-
+![MongoDB CRUD](https://github.com/ketankirty/CRUD-operation-in-Backend-Express.js-and-Mongodb-/blob/main/Screenshot%202025-09-03%20144916.png?raw=true)
+![MongoDB CRUD](https://github.com/ketankirty/CRUD-operation-in-Backend-Express.js-and-Mongodb-/blob/main/Screenshot%202025-09-03%20145320.png?raw=true)
+![MongoDB CRUD](https://github.com/ketankirty/CRUD-operation-in-Backend-Express.js-and-Mongodb-/blob/main/Screenshot%202025-09-03%20144916.png?raw=true)
 ---
 
 ## CRUD Operation Examples
@@ -68,3 +69,5 @@ db.users.deleteOne({ email: "john@example.com" });
 
 // Delete multiple documents
 db.users.deleteMany({ status: "young" });
+
+![MongoDB CRUD](https://webimages.mongodb.com/_com_assets/cms/lyg8ziob3mi9rb6i3-image1.png?ixlib=js-3.7.1&auto=format%2Ccompress&w=1946)
